@@ -690,7 +690,8 @@ li a.active .service-icon-item::before {
 }
 .service-img img {
 	margin-top: 15px;
-	margin-left: 40px;
+	/* margin-left: 40px; */
+	max-width: 100%;
 }
 
 /*======================================*/
